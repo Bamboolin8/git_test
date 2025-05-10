@@ -1,4 +1,2 @@
 # git_test
- “Hello Odin, Vsauce here" 
-"Es funktioniert"
-
+ “Hello Odin, Thor hier"
